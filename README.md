@@ -16,6 +16,7 @@ Weak passwords are one of the most common security vulnerabilities. This tool he
 ## Tools Used
 - Python
 - Regular Expressions (re)
+  
 
 ## What I Learned
 - Password security fundamentals
