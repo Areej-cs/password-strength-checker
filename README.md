@@ -12,6 +12,12 @@ Weak passwords are one of the most common security vulnerabilities. This tool he
 - Detects uppercase and lowercase letters
 - Detects numbers and special characters
 - Classifies passwords as Weak, Medium, or Strong
+- ## Advanced Improvements
+- Password scoring system
+- Detection of common weak passwords
+- Actionable security feedback
+- Strong password generation
+
 
 ## Tools Used
 - Python
